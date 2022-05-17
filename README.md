@@ -14,6 +14,7 @@ Work Experience:
   - C
   - C++
   - JavaScript
+  - TypeScript
   - Swift
   - R
   
