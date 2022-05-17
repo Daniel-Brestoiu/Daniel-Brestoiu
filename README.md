@@ -3,7 +3,7 @@
 ### I am a second year Computing and Financial Management Student, studying at the University of Waterloo
 
 
-Previous Work Experience:
+Work Experience:
   - Full Stack Engineer: MarketBox
   - Full Stack Engineer: Daommo / Surfboard
 
