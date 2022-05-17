@@ -5,9 +5,7 @@
 
 Previous Work Experience:
   - Full Stack Engineer: MarketBox
-
-Upcoming Work Experience:
-  - Full Stack Developer: Daommo / Surfboard
+  - Full Stack Engineer: Daommo / Surfboard
 
 ### Programming Languages:
   - Python
