@@ -6,6 +6,7 @@
 Work Experience:
   - Full Stack Engineer: MarketBox
   - Full Stack Engineer: Daommo / Surfboard
+  - Infrastructure DevOps: Super
 
 ### Programming Languages:
   - Python
