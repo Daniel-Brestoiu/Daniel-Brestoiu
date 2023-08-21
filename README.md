@@ -1,6 +1,6 @@
 # Hi, I’m Daniel Brestoiu
 
-### I am a second year Computing and Financial Management Student, studying at the University of Waterloo
+### I am a third year Computing and Financial Management Student, studying at the University of Waterloo
 
 
 Work Experience:
