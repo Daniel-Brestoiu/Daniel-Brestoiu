@@ -1,6 +1,6 @@
 # Hi, I’m Daniel Brestoiu
 
-### I am a third year Computing and Financial Management Student, studying at the University of Waterloo
+### I am a fourth year Computer Science & Finance major studying at the University of Waterloo
 
 
 Work Experience:
@@ -8,6 +8,8 @@ Work Experience:
   - Full Stack Engineer: Daommo / Surfboard
   - Infrastructure DevOps: Super
   - Software Engineer: DeepBreathe
+  - Software Engineer: Boosted.ai
+  - Infrastructure DevOps: Balyasny Asset Management
 
 ### Programming Languages:
   - Python
@@ -21,7 +23,7 @@ Work Experience:
   - R
   
 ### Contact Me 
-Feel free to check out some of my projects, or head over to [my personal website](https://danielbrestoiu.me) to see my resume! <br/>
+Feel free to check out some of my projects, or head over to [my personal website](https://danielbrestoiu.me) or check out [my resume](https://danielbrestoiu.me/resume)! <br/>
 If you would like to contact me, send me a message at daniel.brestoiu@uwaterloo.ca or connect with [me](https://www.linkedin.com/in/daniel-brestoiu/) on LinkedIn!
 
 
